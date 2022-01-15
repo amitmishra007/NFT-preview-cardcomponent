@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\Documents\\Transform"
+	},
+	{
+		"path": "..\\flex"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "assignment2"
+  }
+}
